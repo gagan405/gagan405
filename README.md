@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gagan405
+- 👋 Hi, I’m Gagan B. Mishra
 - 👀 I’m interested in a lot of things: system programming to distributed systems; linear algebra to quantum physics.
 - 🌱 I’m currently learning kotlin, rust, architecting on AWS etc.
 - 📫 How to reach me : email: gagan[AT]minbox[dot]in
