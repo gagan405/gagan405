@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gagan B. Mishra
 - 👀 I’m interested in a lot of things: system programming to distributed systems; linear algebra to quantum physics.
-- 🌱 I’m currently learning kotlin, rust, architecting on AWS etc.
+- 🌱 I’m currently learning databases, distributed systems, kotlin, rust, architecting on AWS etc.
 - 📫 How to reach me : email: gagan[AT]minbox[dot]in
-  - I also lurk around some discord server [Software Internals](https://discord.gg/bDE5SaXhtQ) under the name `@desia`
+  - Or contact me on [Signal](https://signal.me/#eu/c7hV6onWKI034Xi7dvutIsFkpKqXdapz4h_sML69on-c-ITONelLWJ7LB5XmVkaD)
 - I have worked with quite a few companies over the years, small and large, such as SAP, Flipkart, Amazon etc. More details in [linkedIn](https://www.linkedin.com/in/gaganmishra/).
 
 
