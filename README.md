@@ -1,3 +1,5 @@
+- UPDATE: I am available for [hire](https://cafeaffe.substack.com/p/hire-me).
+
 - 👋 Hi, I’m Gagan B. Mishra
 - 👀 I’m interested in a lot of things: system programming to distributed systems; linear algebra to quantum physics.
 - 🌱 I’m currently learning databases, distributed systems, kotlin, rust, architecting on AWS etc.
